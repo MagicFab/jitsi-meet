@@ -753,7 +753,7 @@
             "join": "Touchez pour rejoindre",
             "roomname": "Saisissez un nom de salle"
         },
-        "appDescription": "Allez-y, chat vidéo avec toute l'équipe. En fait, invitez tout le monde que vous connaissez. {{app}} est une solution de visioconférence entièrement chiffrée et 100% open source que vous pouvez utiliser toute la journée, tous les jours, gratuitement— aucun compte requis.",
+        "appDescription": "Profitez de la conversation vidéo avec toute votre équipe. Allez-y, invitez tous ceux que vous connaissez. {{app}} est une solution 100 % libre de conférence vidéo entièrement cryptée que vous pouvez utiliser en tout temps et gratuitement, sans avoir besoin de compte.",
         "audioVideoSwitch": {
             "audio": "Voix",
             "video": "Vidéo"
@@ -763,10 +763,10 @@
         "connectCalendarText": "Connectez-vous à votre calendrier pour afficher toutes les réunions {{app}}. Ajoutez également les réunions de {{provider}} à votre calendrier et démarrez-les d'un simple clic.",
         "enterRoomTitle": "Démarrer une nouvelle réunion",
         "roomNameAllowedChars": "Le nom de la réunion ne doit contenir aucun de ces caractères : ?, &, :, ', \", %, #.",
-        "go": "Créer",
-        "goSmall": "Créer",
+        "go": "Aller",
+        "goSmall": "Aller",
         "join": "CRÉER / REJOINDRE",
-        "info": "Infos",
+        "info": "Infos",Conférence vidéo sécurisée, pleinement fonctionnelle et entièrement gratuite
         "privacy": "Confidentialité",
         "recentList": "Récent",
         "recentListDelete": "Supprimer",
@@ -776,7 +776,7 @@
         "roomnameHint": "Entrez le nom ou l'URL de la salle que vous souhaitez rejoindre. Vous pouvez faire un nom, laissez les gens que vous rencontrerez le savoir afin qu'ils entrent le même nom.",
         "sendFeedback": "Envoyer votre avis",
         "terms": "Termes",
-        "title": "Vidéoconférence Sécurisée, entièrement en vedette et gratuite",
+        "title": "Conférence vidéo sécurisée, pleinement fonctionnelle et entièrement gratuite",
         "getHelp": "Obtenir de l'aide"
     },
     "lonelyMeetingExperience": {
